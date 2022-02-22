@@ -1,4 +1,4 @@
-﻿import { default as Stats } from '/stats.module.js';
+﻿import { default as Stats } from '../stats.module.js';
 
 // This takes quite a few shortcuts by hardcoding stuff and not worrying too hard about
 // generality and optimization. That's because GPU use isn't the point of this demo.
